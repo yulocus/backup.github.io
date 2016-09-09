@@ -11,15 +11,15 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: arkadianriver
+title: LOCUS
 description: Flowing creativity &#x2192; Cascading bliss
 owner:
   name: Gary Faircloth # or company name
   email: gfair@arkadianriver.com
-  url: http://arkadianriver.com
+  url: http://locus.today
 first_published: 1996 # if migrating another site, the year of your first publish
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://arkadianriver.com" # the base hostname & protocol for your site
+url: "http://locus.today" # the base hostname & protocol for your site
 
 # on landing page
 # - set the greeting only if you want to display the first green section
