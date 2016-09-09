@@ -12,34 +12,36 @@
 
 # Site settings
 title: LOCUS
-description: Flowing creativity &#x2192; Cascading bliss
+description: 享受著設計與程式間交雜的日子
+
 owner:
-  name: Gary Faircloth # or company name
-  email: gfair@arkadianriver.com
+  name: Locus Yu # or company name
+  email: yu.locus@gmail.com
   url: http://locus.today
-first_published: 1996 # if migrating another site, the year of your first publish
+first_published: 2016 # if migrating another site, the year of your first publish
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://locus.today" # the base hostname & protocol for your site
 
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: Welcome!  
-  text: I hope you enjoy my collection
+  title: 哈囉，我叫游宜衡! 
+  text: 
 # - title for your blog's featured posts
-features-title: Featured topics
+features-title: 工作筆記
 # - displayed at the bottom
-closing-head: Thanks for visiting
-closing-para: Feel free to get in touch. Cheers!
+closing-head: 順便下載玩玩看我的作品吧！
+closing-para: 最新力作! GotchaIV - IV Calculator for Pokemon GO
+closing-cta: "http://play.google.com/store/search?q=pub:Yu Locus"
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
-  twitter: https://twitter.com/arkadianriver
-  github: https://github.com/arkadianriver
-  linkedin-square: https://linkedin.com/in/garyfaircloth
-  facebook-official: https://facebook.com/gary.faircloth
-  google-plus-square: https://plus.google.com/u/0/+GaryFaircloth
+  github: https://github.com/yulocus
+  facebook-official: https://www.facebook.com/locus.yu.9
   email: /contact/
+  #twitter:
+  #linkedin-square: 
+  #google-plus-square: 
   #flickr:
   #instagram:
   #youtube-square:

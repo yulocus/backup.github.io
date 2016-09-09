@@ -28,9 +28,9 @@
               -->
             </div>{%
             if site.greeting %}
-            <a href="#greeting" class="more scrolly">Continue</a>{%
+            <a href="#greeting" class="more scrolly">讓我們繼續看下去</a>{%
             else %}
-            <a href="#landing_pages" class="more scrolly">Continue</a>{%
+            <a href="#landing_pages" class="more scrolly">讓我們繼續看下去</a>{%
             endif %}
           </section>
           {%
@@ -122,7 +122,7 @@
               </header>
               <ul class="actions vertical">
                 <!-- <li><a href="#" class="button fit special">Activate</a></li> -->
-                <li><a href="{{ '/contact/' | prepend: site.baseurl }}" class="button fit special">Contact</a></li>
+                <li><a href="{{ site.closing-cta | prepend: site.baseurl }}" class="button fit special">我來試試</a></li>
               </ul>
             </div>
           </section>
