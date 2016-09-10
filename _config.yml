@@ -12,10 +12,10 @@
 
 # Site settings
 title: LOCUS
-description: 享受著設計與程式間交雜的日子
+description: 享受著設計與程式間雜交的日子
 
 owner:
-  name: Locus Yu # or company name
+  name: Locus Today # or company name
   email: yu.locus@gmail.com
   url: http://locus.today
 first_published: 2016 # if migrating another site, the year of your first publish
@@ -26,7 +26,7 @@ url: "http://locus.today" # the base hostname & protocol for your site
 # - set the greeting only if you want to display the first green section
 greeting:
   title: 哈囉，我叫游宜衡! 
-  text: 
+  text: 2013/8 ~ 到現在<br />在AtticTV Pte Ltd擔任Android Leader<br /><br />回想剛進入AtticTV，我還是個Android開發只學三個多月就勇敢跑來面試的小菜鳥。<br />在神人級的技術長帶領下，慢慢學習到許多程式開發上的技巧，以及創業相關的知識。<br />在新創公司工作的風格，就是不斷地挑戰新事物，嘗試更多創新的思維與觀點，<br />這不僅讓我有更多程式實作經驗的累積，也增強了英文閱讀文件的能力。<br />相信未來我將會更努力不斷地精進自己，嘗試開發出更多良好使用體驗的APP。
 # - title for your blog's featured posts
 features-title: 工作筆記
 # - displayed at the bottom
@@ -87,7 +87,7 @@ compose:
 
 # choose where to put back and next links:
 # top, bottom, both, none
-navlinks: bottom
+navlinks: none
 
 # expecting more works? mark your list as in-progress
 works_in_progress: no
