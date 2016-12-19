@@ -1,0 +1,21 @@
+# IMPORTANT: Set this to false.
+demo: false
+
+# Theme customization is done on this file instead of _config.yml so that
+# you don't have to restart Jekyll to see changes.
+
+photo: "/images/locus.jpg"
+name: "哈囉，我叫游宜衡!"
+copy: "目前在AtticTV Pte Ltd擔任Android Leader<br />在新創公司工作的風格，就是不斷地挑戰新事物，嘗試更多創新的思維與觀點，相信未來我將會更努力不斷地精進自己，嘗試開發出更多良好使用體驗的APP"
+
+# Color scheme based on http://www.materialui.co/colors.
+# Possible values:
+# - default
+# - red
+# - pink
+# - brown
+# - blue
+# - purple
+# - teal
+# - green
+color: default
